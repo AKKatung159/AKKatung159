@@ -3,8 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 CS Student | Chulalongkorn University.
 --------------------------------------
+https://i.pinimg.com/originals/7e/f7/a7/7ef7a7b9fa2025fba06a1c08ef143880.gif
 
-I'm Ekkrit Kanchanasiri (AKKatung), a 2nd-year Computer Science student at Chulalongkorn University. I have experience in various programming languages, including Python, Java, HTML, CSS, JavaScript, and TypeScript. I'm passionate about software development and enjoy working on projects that challenge me to think creatively and outside the box.
+I'm Ekkrit Kanchanasiri (AKKatung), a 2nd-year Computer Science student at Chulalongkorn University. I have experience in various programming languages, including Python, Java, HTML, CSS, JavaScript, and TypeScript. 
+  I'm passionate about software development and enjoy working on projects that challenge me to think creatively and outside the box.
 
 * 🌍  I'm based in Bangkok, Thailand
 
